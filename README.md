@@ -9,14 +9,7 @@ Each task in this repository is designed to help beginners and intermediate deve
 ## Features
 
 - Basic HTML structure for different webpage elements.
-- CSS styling techniques, including layout design, typography, and responsiveness (if applicable).
+- CSS styling techniques, including layout design  and responsiveness.
 - Organized and well-commented code for easy understanding.
 
-## Getting Started
-
-To get started with this repository, follow these steps:
-
-### Clone the Repository
-
-Clone this repository to your local machine:
 
